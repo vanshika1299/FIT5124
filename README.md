@@ -1,8 +1,4 @@
-Sure! Below is the complete `README.md` content ready for you to **copy-paste directly into your GitHub repository**.
 
----
-
-````markdown
 # 🛡️ FIT5124 Assignment 3 – Model Extraction & Membership Inference Attacks
 
 This repository contains my submission for **FIT5124 Assignment 3**, which explores two major machine learning security threats:
